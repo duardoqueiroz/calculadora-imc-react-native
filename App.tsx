@@ -1,5 +1,7 @@
 import { StyleSheet, Text, View, Image } from "react-native";
 import Main from "./src/components/Main";
+import React from "react";
+
 export default function App() {
   return (
     <View style={styles.container}>
